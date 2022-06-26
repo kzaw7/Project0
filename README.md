@@ -30,3 +30,4 @@ You are expected to complete the following requirements and give a 5 minute pres
 * As a customer, I can post a money transfer to another account. 
 * As a customer, I can accept a money transfer from another account. 
 * A an employee, I can view a log of all transactions.
+<img width="1440" alt="Screen Shot 2022-06-26 at 3 41 50 PM" src="https://user-images.githubusercontent.com/74020237/175831152-5efe6a16-b043-4278-adbc-4394a2f3636e.png">
